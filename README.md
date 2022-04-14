@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Midniight7 
-- 👀 I’m interested in CyberSecurity, web development, technology. 
+- 👀 I’m interested in CyberSecurity, web development, and technology. 
 - 🌱 I’m currently learning how to build a blogging website using HTML, CSS, and JavaScrpit.
 
 <!---
